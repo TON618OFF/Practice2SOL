@@ -1,3 +1,7 @@
+
+MAIN FILE IN THAT PRACTICE IS 
+EstateAgency.sol
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
